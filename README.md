@@ -20,7 +20,7 @@ A comprehensive deep learning project using MLflow for experiment tracking, hype
 └── mlruns/             # MLflow experiment tracking data
 ```
 
-## 🛠️ MLflow Ui 
+## 🛠️ MLfLOW Ui 
 
 ![Model Experiments](/_asserts/dl%20model%20experiment.png)
 
